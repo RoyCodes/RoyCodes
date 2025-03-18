@@ -1,24 +1,24 @@
-# Hi, I'm Roy! 👋
+### Hi, I'm Roy! 👋
 
-🚀 **AI & IoT Solutions Architect | Software-Defined Vehicles & Edge Computing**  
-Building AI-powered tools & interactive experiences for **automotive, IoT, and cloud-native systems**.
+AI & IoT Solutions Architect working on Software-Defined Vehicles, IoT, and cloud-native systems. I build AI-powered tools and interactive experiences that push the boundaries of automotive and edge computing.
 
-## 🎯 Featured Work
-🤖 **[Hide & Seek Alexa Skill](https://www.amazon.com/dp/B077F51WWV?ref&ref=cm_sw_tw_r_as_dp_i48ewqDfL8J0x)**  
-With **40K+ Amazon Ratings** and **10K+ daily players**, this game was featured in [The New York Times](https://www.nytimes.com/wirecutter/blog/alexa-family-games-cabin-fever/) and [CNET](https://www.cnet.com/home/smart-home/alexa-games-to-keep-your-kids-busy/).
+#### 🎯 Featured Work
+- 🤖 [Hide & Seek Alexa Skill](https://www.amazon.com/dp/B077F51WWV?ref&ref=cm_sw_tw_r_as_dp_i48ewqDfL8J0x)  
+  Built a top 10 Alexa Kid’s skill using Python, AWS Lambda, and the Alexa Skills Kit. It has 40K+ Amazon Ratings, peaked at 10K+ daily players, and was featured in [The New York Times](https://www.nytimes.com/wirecutter/blog/alexa-family-games-cabin-fever/) and [CNET](https://www.cnet.com/home/smart-home/alexa-games-to-keep-your-kids-busy/).
 
-🏆 **[Azure AI Hackathon (2019)](https://www.iotforall.com/microsoft-azure-ai-hackathon)** – **3rd Place Winner**  
-Built an AI-powered IoT solution and documented the process in IoT For All.
+- 🏆 [Azure AI Hackathon (2019)](https://azure.microsoft.com/en-us/blog/microsoft-azure-ai-hackathon-s-winning-projects/) – 3rd Place  
+  Developed a water level anomaly detector using Azure Cognitive Services & Python. Wrote about the project in [IoT For All](https://www.iotforall.com/microsoft-azure-ai-hackathon).
 
-## 🔭 What I'm Working On
-🧠 **ML NLP Clustering** – Developing an **AI pipeline to extract insights from unstructured customer feedback**. Repo [HERE](https://github.com/RoyCodes/nlp-clustering-prototype)  
-🎓 **AWS Machine Learning Specialty** – Deep diving into AI & cloud technologies.  
+#### 🔭 What I'm Working On
+- [ML NLP Clustering](https://github.com/RoyCodes/nlp-clustering-prototype)  
+  Building an AI pipeline to turn unstructured customer feedback into actionable insights using Natural Language Processing and clustering techniques.
 
-## 🏕️ Outside of Tech
-When outside, I'm **exploring, camping, and finding new ways to get the ol' Land Cruiser stuck in the mud**.  
+#### 🏕️ Outside of Tech
+- When I’m not coding, I’m exploring, camping, and finding new ways to get the ol' Land Cruiser stuck in the mud.  
 
-## 📫 Get in Touch
-💼 [LinkedIn](https://linkedin.com/in/roykincaid) | 🌍 [RoyKincaid.com](https://roykincaid.com)  
+#### 📫 Get in Touch
+[LinkedIn](https://linkedin.com/in/roykincaid) | [RoyKincaid.com](https://roykincaid.com)  
+
 
 <!--
 **RoyCodes/RoyCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
