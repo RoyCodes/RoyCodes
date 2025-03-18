@@ -11,7 +11,7 @@ With **40K+ Amazon Ratings** and **10K+ daily players**, this game was featured 
 Built an AI-powered IoT solution and documented the process in IoT For All.
 
 ## 🔭 What I'm Working On
-🧠 **ML NLP Clustering** – Developing an **AI pipeline to extract insights from unstructured customer feedback**.  
+🧠 **ML NLP Clustering** – Developing an **AI pipeline to extract insights from unstructured customer feedback**. Repo [HERE](https://github.com/RoyCodes/nlp-clustering-prototype)  
 🎓 **AWS Machine Learning Specialty** – Deep diving into AI & cloud technologies.  
 
 ## 🏕️ Outside of Tech
