@@ -10,7 +10,7 @@ AI & IoT Solutions Architect working on Software-Defined Vehicles, IoT, and clou
   Developed a water level anomaly detector using Azure Cognitive Services & Python. Wrote about the project in [IoT For All](https://www.iotforall.com/microsoft-azure-ai-hackathon).
 
 #### 🔭 What I'm Working On
-- [ML NLP Clustering](https://github.com/RoyCodes/nlp-clustering-prototype)  
+- [NLP Clustering](https://github.com/RoyCodes/nlp-clustering-prototype)  
   Building an AI pipeline to turn unstructured customer feedback into actionable insights using Natural Language Processing and clustering techniques.
 
 #### 🏕️ Outside of Tech
